@@ -13,7 +13,7 @@ public class Test14 {
 				//break;   //打印两次中国
 				//continue;   //打印七次中国
 				//System.out.println("中国");//打印13次中国
-				return;
+				return;     //结束main方法
 			}
 			System.out.println("中国");
 		}
