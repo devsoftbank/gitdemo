@@ -1,3 +1,6 @@
+/*
+ * Ñ­»·ÌåÓï¾äÇ¶Ì×Á·Ï°
+ */
 package com.hai.chap01;
 
 import java.util.Scanner;
