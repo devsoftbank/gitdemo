@@ -12,10 +12,10 @@ public class Test14 {
 			if(i%3==0){
 				//break;   //打印两次中国
 				//continue;   //打印七次中国
-				System.out.println("中国");//打印13次中国
+				//System.out.println("中国");//打印13次中国
+				return;
 			}
 			System.out.println("中国");
 		}
 	}
-
 }
